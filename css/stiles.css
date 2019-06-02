@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
+
+body
+{
+	background-color: #24292e;
+
+}
 
 
 
@@ -12,7 +19,7 @@
 #team .card
 {
 	border-radius: 0;
-	box-shadow: 5px 5px 10px #d88d1b;
+	box-shadow: 5px 5px 10px #60329e;
 	transition: all 0.3s ease-in;
 	-webkit-transition: all 0.3s ease-in;
 	-moz-transition: all 0.3s ease-in;
@@ -35,11 +42,11 @@ color: #63140b;
 
 #team .card:hover
 {
-	background: #d88d1b;
+	background: #60329e;
 	color: white;
 	border-radius: 5px;
 	border: none;
-	box-shadow: 5px 5px 15px #949d2c;
+	box-shadow: 5px 5px 15px #fff;
 	font-family: 'Source Sans Pro', sans-serif ;	
 	text-align: center;
 }
